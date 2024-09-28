@@ -1,0 +1,13 @@
+.nodata-bg-cont {
+  background-color: #0c0026;
+  min-height: 100vh;
+}
+.no-data-content {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 3%;
+  padding-right: 3%;
+}
